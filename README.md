@@ -1,2 +1,2 @@
 # Bonus-senza-Deposito
-The project references  Bonus senza deposito the repository URL (for instance, in documentation, or as a submodule), remember to update these references to point to the new location https://www.wincasino.it/
+Il progetto fa riferimento a Bonus senza deposito l'URL del repository (ad esempio, nella documentazione, o come un sottomodulo), ricordati di aggiornare questi riferimenti per indicare la nuova posizione https://www.wincasino.it/
